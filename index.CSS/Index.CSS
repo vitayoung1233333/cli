@@ -1,9 +1,10 @@
-body { background: beige;
+body { background: cornsilk;
 }
 
 h1 {    text-align: center;
     background-color: chocolate;
     padding: 10px;
+    border-radius: 2px;
 }
 
 h2 {text-align: center;
@@ -11,6 +12,15 @@ h2 {text-align: center;
 
 main{text-align:justify;
 }
+
+p {padding: 2px;
+background: aliceblue;
+border-radius: 2px;
+}
+
+article {padding: 2px;
+background-color: lightgrey;
+border-radius: 2px;}
 
 * {
     box-sizing: border-box;
