@@ -6,7 +6,10 @@ h1 {    text-align: center;
     padding: 10px;
 }
 
-main{text-align: center;
+h2 {text-align: center;
+}
+
+main{text-align:justify;
 }
 
 * {
